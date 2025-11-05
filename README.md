@@ -27,4 +27,4 @@ Key Focus:
 -Developing a step-by-step workflow from raw data to insights
 
 Technologies:
- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ Pyton, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
